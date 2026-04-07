@@ -1,0 +1,502 @@
+[
+  {
+    "style_image_path": "images/amber.png",
+    "amber": "A realistic, high-fidelity photographic style, showcasing a translucent, amber-toned material with a glossy surface and numerous internal bubbles."
+  },
+  {
+    "style_image_path": "images/amigurumi.png",
+    "amigurumi": "A soft, handcrafted aesthetic with a pastel color palette of light blues, pinks, purples, and creams, rendered through a crocheted yarn texture."
+  },
+  {
+    "style_image_path": "images/artnouveau.png",
+    "artnouveau": "An elegant Art Nouveau aesthetic, characterized by a soft pastel color palette and delicate, flowing lines that define a central figure amidst intricate floral and vine motifs."
+  },
+  {
+    "style_image_path": "images/cloisonne.png",
+    "cloisonne": "A vibrant, ornate decorative style, reminiscent of cloisonné enamel, characterized by a rich palette of jewel-toned blues, greens, reds, and oranges, meticulously outlined in gold filigree."
+  },
+  {
+    "style_image_path": "images/cubism.png",
+    "cubism": "A highly fragmented, geometric style, rendered with a muted, earthy color palette of browns, greens, and creams."
+  },
+  {
+    "style_image_path": "images/fauvism.png",
+    "fauvism": "An energetic, highly stylized portrait rendered with thick, visible impasto brushstrokes on a textured surface, utilizing a vibrant, high-contrast palette of primary and secondary colors, creating a fragmented, mosaic-like aesthetic with bold black outlines and a flat, graphic depth."
+  },
+  {
+    "style_image_path": "images/impressionism.png",
+    "impressionism": "A vibrant, impressionistic oil painting style, characterized by thick, visible impasto brushstrokes that create a rich, textured surface."
+  },
+  {
+    "style_image_path": "images/jade.png",
+    "jade": "A highly polished, intricately carved gemstone object, featuring a serene palette of translucent light greens and mottled dark greens."
+  },
+  {
+    "style_image_path": "images/sketch.png",
+    "sketch": "An expressive, monochromatic sketch style, rendered with energetic, visible pencil or charcoal marks on a textured, off-white paper surface."
+  },
+  {
+    "style_image_path": "images/stippling.png",
+    "stippling": "A high-contrast monochrome aesthetic, rendered with a meticulous stippling technique that creates depth and texture through varying dot density, complemented by fine line work for details, evoking the precise, granular appearance of traditional engraving or halftone printing on a slightly textured, light-colored surface."
+  },
+  {
+    "style_image_path": "images/sumie.png",
+    "sumie": "A traditional East Asian ink wash painting style, characterized by monochromatic black and grey botanical elements rendered with expressive, fluid brushstrokes on a textured, warm off-white paper background."
+  },
+  {
+    "style_image_path": "images/candy_jelly.png",
+    "candy_jelly": "high-saturation candy material, jelly-like elastic semi-translucent body, rounded inflated volume, ultra-smooth surface with no grain, smooth gradient from bright purple to deep tones, localized volumetric shadows for depth, strong specular highlights with curved white reflections, glossy sugar-coated finish, soft and bouncy visual feel, stylized 3D cartoon rendering, bright high contrast, clean shading and soft shadows"
+  },
+  {
+    "style_image_path": "images/neon_glow.png",
+    "neon_glow": "high-saturation neon emission, bright luminous colors with soft glowing halos, light bleeding outward into surroundings, strong contrast against dark background, smooth gradients, futuristic cyberpunk atmosphere"
+  },
+  {
+    "style_image_path": "images/holographic.png",
+    "holographic": "holographic iridescent surface, multi-color spectral reflections shifting with angle, high gloss finish, layered reflective gradients, futuristic and eye-catching visual effect"
+  },
+  {
+    "style_image_path": "images/comic_dot.png",
+    "comic_dot": "halftone comic texture, visible dot patterns for shading, high contrast colors, bold outlines, graphic and retro comic style"
+  },
+  {
+    "style_image_path": "images/gel_pen.png",
+    "gel_pen": "gel pen illustration style, smooth clean lines, bright saturated colors, subtle highlight accents, polished and decorative finish"
+  },
+  {
+    "style_image_path": "images/gradient_neon.png",
+    "gradient_neon": "neon gradient blend, bright fluorescent colors transitioning smoothly, glowing edges with soft light diffusion, high contrast luminous appearance"
+  },
+  {
+    "style_image_path": "images/acrylic_pour.png",
+    "acrylic_pour": "Fluid acrylic pour painting, swirling marble-like colors, vibrant cell structures, glossy wet finish, organic liquid flow."
+  },
+  {
+    "style_image_path": "images/gold_foil.png",
+    "gold_foil": "Crumpled gold foil texture, metallic reflections, rich warm highlights, luxurious and uneven surface, macro photography."
+  },
+  {
+    "style_image_path": "images/soap_bubbles.png",
+    "soap_bubbles": "Iridescent soap bubbles close-up, rainbow interference patterns, thin transparent film, dark background, delicate and fragile."
+  },
+  {
+    "style_image_path": "images/vinyl_record.png",
+    "vinyl_record": "Macro photography of a vinyl record, fine circular micro-grooves, glossy black surface with curved highlights, retro music aesthetic."
+  },
+  {
+    "style_image_path": "images/brick_wall.png",
+    "brick_wall": "Classic red brick wall, rough porous texture, grey mortar lines, urban architectural surface, realistic masonry."
+  },
+  {
+    "style_image_path": "images/honey_drip.png",
+    "honey_drip": "Thick golden honey dripping, translucent and viscous, glowing amber light passing through, sticky texture, macro food photography."
+  },
+  {
+    "style_image_path": "images/snakeskin.png",
+    "snakeskin": "Realistic python snakeskin texture, geometric diamond patterns, leathery and scaly, exotic wildlife aesthetic."
+  },
+  {
+    "style_image_path": "images/leopard_print.png",
+    "leopard_print": "Natural leopard fur texture, golden yellow background with dark brown and black rosettes, soft animal hair details."
+  },
+  {
+    "style_image_path": "images/astroturf.png",
+    "astroturf": "Artificial grass astroturf texture, bright green synthetic plastic blades, uniform and tightly packed, sports field aesthetic."
+  },
+  {
+    "style_image_path": "images/nail_polish_swirl.png",
+    "nail_polish_swirl": "Swirling macro wet nail polish, high-gloss enamel, blending vibrant opaque colors, smooth flowing liquid art."
+  },
+  {
+    "style_image_path": "images/oil_slick.png",
+    "oil_slick": "Oil spill on wet asphalt, swirling rainbow interference colors, dark metallic sheen, fluid dynamic texture."
+  },
+  {
+    "style_image_path": "images/quartz_crystal.png",
+    "quartz_crystal": "Raw amethyst quartz crystal cluster, sharp hexagonal prisms, translucent purple depths, geological texture."
+  },
+  {
+    "style_image_path": "images/tire_tread.png",
+    "tire_tread": "Black rubber car tire tread pattern, deep geometric grooves, rough matte surface, heavy automotive texture."
+  },
+  {
+    "style_image_path": "images/waffle_texture.png",
+    "waffle_texture": "Golden brown baked waffle, deep square grid indentations, crispy edges, breakfast food texture, warm and inviting."
+  },
+  {
+    "style_image_path": "images/yarn_balls.png",
+    "yarn_balls": "Tangled soft cotton yarn, overlapping colorful strings, textile macro photography, cozy and slightly chaotic."
+  },
+  {
+    "style_image_path": "images/bamboo_texture.png",
+    "bamboo_texture": "Close-up of green bamboo stalks, vertical parallel lines, smooth waxy surface with nodes, botanical and fresh."
+  },
+  {
+    "style_image_path": "images/cobblestone_street.png",
+    "cobblestone_street": "Old European cobblestone street, rounded uneven grey stones, moss in the crevices, historical paving texture."
+  },
+  {
+    "style_image_path": "images/s0001.jpg",
+    "s0001": "The visual style employs a muted color palette dominated by soft greens, grays, and whites, with moderate saturation and contrast that creates a gentle interplay of light and shadow. Lighting is consistently soft and diffused, suggesting an ambient, overcast illumination without harsh highlights or deep shadows. The texture is distinctly painterly, with visible brushwork characteristic of traditional oil or acrylic painting, building up forms through a blend of loose, expressive strokes for organic elements and more controlled applications for structured shapes. While the composition presents a high level of overall complexity, individual elements are rendered with a simplified, impressionistic quality, focusing on form and tone rather than minute realism. This combination cultivates a calm, serene, and contemplative atmosphere."
+  },
+  {
+    "style_image_path": "images/s0022.jpg",
+    "s0022": "A restrained color palette features a soft, desaturated off-white background, a highly saturated, vibrant red, and translucent white elements exhibiting subtle cool reflections and warm subsurface scattering. The lighting is soft and diffused, producing gentle gradients and highlights that emphasize a smooth, slightly irregular, almost gelatinous texture with a fine surface grain. This is a precise digital rendering style, devoid of brushwork, where the level of detail is concentrated on the nuanced material properties rather than intricate forms. The overall mood is clean, modern, and serene, imbued with a playful yet focused atmosphere."
+  },
+  {
+    "style_image_path": "images/s0027.jpg",
+    "s0027": "The style is characterized by a monochromatic color palette, utilizing a broad spectrum of grays from deep, velvety blacks to stark whites, creating exceptionally high contrast and dramatic visual impact. Lighting is theatrical and intense, with strong backlighting illuminating distant elements and casting long, profound shadows that define foreground forms through stark chiaroscuro. Textures are richly rendered and highly tactile, achieved through meticulous cross-hatching and fine linework that suggests rough surfaces, rippling water, and intricate fabrics. The rendering style is distinctly that of traditional wood or steel engraving, marked by precise, deliberate lines rather than painterly strokes. The level of detail is exceptionally high, with intricate patterns and forms present across the entire composition. This combination of dramatic contrast, intricate texture, and precise rendering cultivates a solemn, epic, and somewhat foreboding atmosphere."
+  },
+  {
+    "style_image_path": "images/s0081.jpg",
+    "s0081": "A soft, moderately saturated color palette, predominantly warm yellows, oranges, and light blues, establishes a harmonious low to medium contrast. The lighting is diffuse and even, casting no harsh shadows and contributing to a gentle ambiance. A grainy, tactile texture pervades the composition, achieved through visible, dabbing brushstrokes that evoke an impressionistic or pointillistic rendering style, likely digital emulating traditional paint. The level of detail is moderate, with forms suggested rather than precisely delineated, yet the overall texture is rich. This combination cultivates a dreamy, serene, and tranquil atmosphere."
+  },
+  {
+    "style_image_path": "images/s0086.jpg",
+    "s0086": "The visual style is characterized by a soft, pastel color palette dominated by various shades of lavender and deep purple, accented by muted blues, pale yellows, and off-white tones. Lighting is ambient and diffused, creating a gentle, shadowless glow that suggests twilight or nighttime. Textures are predominantly smooth with flat color fills, though a subtle, fine grain or noise is present across surfaces, adding a delicate analog quality. The rendering style is digital illustration, featuring clean, consistent line art with a slightly hand-drawn feel, and colors applied in un-blended blocks. The level of detail is moderate, with simplified forms and stylized elements that maintain clarity without being overly intricate. This combination cultivates a dreamy, serene, and whimsical atmosphere."
+  },
+  {
+    "style_image_path": "images/s0093.jpg",
+    "s0093": "The visual style features a vibrant color palette dominated by bright yellow and light blue, sharply contrasted by thick black outlines and a clean white background, all highly saturated. Lighting is flat and uniform, offering no discernible light source or cast shadows, though subtle darker color variations provide minimal depth. Surfaces are smooth and untextured, contributing to a clean, digital aesthetic. The rendering is distinctly digital, characterized by crisp, vector-like lines of uniform thickness and solid, ungraduated color fills, typical of modern iconographic or flat design. The level of detail is minimalist, focusing on simplified forms. This creates an overall mood that is cheerful, straightforward, and functional."
+  },
+  {
+    "style_image_path": "images/s0099.jpg",
+    "s0099": "Rendered in a soft, transparent watercolor style, the color palette is dominated by muted earth tones, desaturated greens, and gentle blues, with subtle accents of warm ochre and terracotta. Saturation is low to medium, contributing to a harmonious and understated scheme, while contrast remains soft, relying on delicate value shifts. The lighting is natural and diffused, casting gentle, elongated shadows that create depth without harshness, imbuing the scene with a luminous, airy quality. Textures are subtly evoked through varied washes, suggesting weathered stone, crumbling plaster, and soft fabrics, with the grain of the paper often visible. Brushwork is fluid and expressive, characterized by transparent layering and a blend of controlled detail in focal areas and looser, more impressionistic strokes in the background. The level of detail is moderate, providing clear form and texture without being hyperrealistic. This combination cultivates a serene, nostalgic, and idyllic atmosphere, evoking a sense of quiet charm and timelessness."
+  },
+  {
+    "style_image_path": "images/s0106.jpg",
+    "s0106": "The visual style employs a vibrant, high-saturation color palette dominated by fuchsia pinks, deep purples, and twilight blues, utilizing smooth gradients for atmospheric transitions and creating a striking, almost neon-like contrast. Lighting is soft and ambient, emanating from a large, central source, casting a gentle glow that defines forms through subtle color shifts rather than harsh shadows. A consistent, fine-grained digital noise texture is applied uniformly across all surfaces, lending a tactile, slightly retro or screen-printed quality to the otherwise smooth, vector-based shapes. The rendering is clean and digital, characterized by simplified geometric forms and crisp edges, with no visible brushwork. The level of detail is minimalist, focusing on broad shapes and color fields, yet the textural overlay adds a layer of visual richness. This combination results in a serene, dreamy, and vibrantly tranquil overall mood and atmosphere."
+  },
+  {
+    "style_image_path": "images/s0121.jpg",
+    "s0121": "A vibrant, high-saturation color palette dominates, transitioning smoothly from deep purples and blues to warm pinks, oranges, and bright yellows, creating a strong visual contrast. Lighting is soft and atmospheric, emanating from a central, luminous source that casts a gentle glow and subtle highlights across the smooth, flat surfaces. The rendering style is distinctly digital and vector-based, characterized by clean, sharp edges and geometric forms, with gradients used to suggest depth rather than intricate textures. This minimalist approach to detail, where forms are simplified and abstracted, contributes to an overall serene, tranquil, and somewhat ethereal mood."
+  },
+  {
+    "style_image_path": "images/s0139.jpg",
+    "s0139": "The style employs a highly saturated and high-contrast color palette, featuring vibrant blues, yellows, greens, oranges, and pinks, often delineated by bold black outlines. Lighting is flat and uniform, devoid of shadows or highlights, resulting in a smooth, untextured, and graphic appearance. The rendering is distinctly digital, characterized by crisp, clean lines and solid, unmodulated color fills, evoking a vector art aesthetic. While individual forms are simplified and minimalist in their internal detail, the overall composition is rich with a variety of shapes. This combination cultivates a playful, energetic, and cheerfully whimsical mood."
+  },
+  {
+    "style_image_path": "images/s0153.jpg",
+    "s0153": "The visual style employs a muted, earthy color palette dominated by various shades of green and brown, complemented by a soft cream background and subtle accents of teal and delicate pink. Lighting is soft and diffused, creating gentle shadows that define the layered, paper-cut aesthetic. A subtle, grainy paper texture is evident across all surfaces, contributing to a matte, tactile feel. The rendering style is digital, meticulously mimicking a layered collage with crisp, clean edges and smooth gradients for depth. It exhibits a high level of intricate detail in its complex layering and fine internal shapes, while maintaining simplified, graphic forms. The overall mood is serene, organic, and contemplative, evoking a tranquil atmosphere."
+  },
+  {
+    "style_image_path": "images/s0156.jpg",
+    "s0156": "The visual style employs a high-contrast color palette, prominently featuring a vibrant red-orange, deep charcoal, and muted teal, punctuated by crisp off-white elements. Lighting is flat and diffused, relying on stark color blocking rather than rendered light sources or shadows. A subtle, grainy texture is evident across surfaces, lending a tactile quality reminiscent of screen-printing or block-print techniques. The rendering style is highly stylized and graphic, characterized by simplified, clean-edged forms and bold silhouettes, with detail conveyed through repetitive patterns rather than intricate realism. This combination creates a modern, confident, and energetic atmosphere."
+  },
+  {
+    "style_image_path": "images/s0158.jpg",
+    "s0158": "The visual style employs a muted color palette, featuring deep navy blues, warm golden yellows, and soft creams, which establish a high contrast between starkly illuminated areas and deep shadows. Lighting is focused and directional, creating a distinct, geometric cone of brightness from a single overhead source. All elements are rendered with entirely smooth, flat textures and solid color fills, exhibiting sharp, clean edges characteristic of a digital, vector-based approach. The level of detail is highly minimalist, simplifying forms to their most essential shapes without intricate features. This combination results in a clean, modern, and somewhat intimate atmosphere."
+  },
+  {
+    "style_image_path": "images/s0162.jpg",
+    "s0162": "An intensely vibrant and highly saturated color palette, predominantly featuring electric blues, hot pinks, vivid yellows, and lime greens, defines this visual style, generating extreme chromatic contrast. Illumination is bright and even, imparting a flat yet luminous quality to the forms, which exhibit a smooth, almost glossy or plastic texture. The rendering employs crisp, clean lines and precise, flat color fills with subtle, smooth gradients, suggesting a digital or highly controlled traditional media approach. The composition is densely detailed with intricate patterns and numerous small, swirling abstract elements. This confluence creates an energetic, whimsical, and psychedelic atmosphere, feeling both playful and surreal."
+  },
+  {
+    "style_image_path": "images/s0161.jpg",
+    "s0161": "The style features a soft, earthy color palette dominated by muted creams, pale yellows, olive greens, and warm browns. Saturation is generally low, creating a gentle harmony with subtle contrast shifts between the intricately patterned elements and the background. Lighting is flat and even, characteristic of graphic design, with no discernible light source or shadows, contributing to a two-dimensional aesthetic. The visual texture is exceptionally smooth and clean, indicative of a digital, vector-based medium, with crisp, precise lines and solid color fills. The level of detail is high, showcasing intricate, repeating decorative motifs. This combination evokes an overall mood of serene elegance and intricate ornamentation, reminiscent of traditional craftsmanship."
+  },
+  {
+    "style_image_path": "images/s0164.jpg",
+    "s0164": "The style is characterized by a highly saturated and high-contrast color palette, prominently featuring vibrant fuchsia, electric lime green, deep purple, and bright yellow, punctuated by intense, glowing red accents. Lighting is flat and graphic, with an internal, emissive quality suggested by the luminous elements, rather than external light sources. Textures are predominantly smooth and clean, with subtle, stylized stippling providing minimal surface variation. The rendering style is distinctly digital, marked by bold, thick outlines and solid, unblended color fills, giving it a graphic, illustrative, and somewhat cartoonish aesthetic. The level of detail is moderate, focusing on clear, defined forms rather than intricate realism. This combination creates an overall mood that is energetic, aggressive, and edgy, conveying a sense of raw, intense dynamism."
+  },
+  {
+    "style_image_path": "images/s0169.jpg",
+    "s0169": "A highly saturated and vibrant color palette, dominated by a bright yellow background, features bold primary and secondary hues like red, blue, and dark green, all delineated by thick, slightly wobbly black outlines. The lighting is flat and even, completely devoid of shadows or highlights, contributing to a graphic, two-dimensional appearance. Textures are smooth and unrendered, emphasizing solid color blocking. The rendering style is digital, mimicking a hand-drawn, marker-like aesthetic with its distinct brushwork and simplified, cartoonish forms. Detail is minimalist, relying on essential shapes and basic features. This combination cultivates an overwhelmingly cheerful, playful, and lighthearted atmosphere."
+  },
+  {
+    "style_image_path": "images/s0174.jpg",
+    "s0174": "The visual style employs a moderately saturated color palette, prominently featuring vibrant teal, cerulean blue, and soft cream, complemented by muted peach and subtle accents of red and green, creating a gentle, harmonious contrast. Lighting is soft and diffused, providing an even illumination that avoids harsh shadows and contributes to a flattened depth. A distinct painterly texture is evident through visible brushwork, suggesting oil or acrylic on canvas, with surfaces appearing both smooth and subtly impastoed. The rendering style is simplified yet decorative, characterized by clean lines and defined, almost block-like shapes, leaning towards a modernist or Art Deco aesthetic. Detail is moderate, focusing on essential forms and repetitive patterns rather than hyper-realism. This combination evokes an elegant, serene, and somewhat whimsical atmosphere."
+  },
+  {
+    "style_image_path": "images/s0175.jpg",
+    "s0175": "The visual style employs a soft pastel color palette, characterized by low to medium saturation and subtle contrast, set against a muted, almost ethereal background. Lighting is extremely soft and diffused, creating an ambient glow without harsh shadows, contributing to an overall luminous quality. Texture varies significantly, from smooth, blended surfaces in the background and simplified forms to thick, impasto brushwork in the more prominent, textured elements, which also incorporate subtle reflective accents. The rendering style is distinctly painterly, utilizing visible, expressive strokes for textured areas and a softer, more blended approach for smoother transitions and abstracted forms, strongly suggesting traditional media. Detail is selectively applied, with minimalist backgrounds and simplified forms contrasting with the rich, layered detail of specific focal points. This combination evokes a dreamy, ethereal, and serene atmosphere, imbued with a delicate and gentle mood."
+  },
+  {
+    "style_image_path": "images/s0177.jpg",
+    "s0177": "A serene and modern aesthetic is conveyed through a muted pastel color palette, featuring soft sage greens, dusty pinks, and warm browns, set against a light, desaturated background. The overall saturation is low to medium, with gentle contrast that maintains a soft visual harmony. Lighting is flat and ambient, devoid of explicit shadows or highlights, contributing to a smooth, matte texture across all elements. The rendering style is distinctly digital and graphic, characterized by clean, crisp edges and solid color fills, with simplified, organic shapes and minimal detailing like scattered dots and thin, wavy lines. This combination creates a calm, inviting, and subtly playful atmosphere."
+  },
+  {
+    "style_image_path": "images/s0180.jpg",
+    "s0180": "The visual style employs a soft, desaturated pastel color palette dominated by pale mint greens, muted lavenders, and warm beige tones, punctuated by vibrant accents of coral red and deep orange-brown, maintaining a moderate contrast for gentle definition. Lighting is diffused and soft, creating subtle shadows and a delicate glow, enhanced by digital sparkle effects that suggest an ethereal quality. The texture combines smooth digital rendering with a subtle, fine grain overlay, imparting a slightly vintage or tactile feel, while some elements exhibit a translucent sheen. Brushwork is characterized by clean, precise line art and flat color fills, softened by digital blending and airbrushing, indicative of a refined digital illustration style with contemporary stylized influences. The level of detail is moderate, focusing on intricate linear patterns and subtle color shifts rather than hyper-realism. This combination cultivates a dreamy, delicate, and somewhat melancholic or introspective overall mood and atmosphere."
+  },
+  {
+    "style_image_path": "images/s0182.jpg",
+    "s0182": "Characterized by a muted, earthy color palette, the visual style features a dominant pale yellow background contrasted with warm reddish-browns, deep browns, and subtle grays, all rendered with moderate saturation. Lighting is soft and diffused, creating gentle shadows through extensive hatching rather than stark contrasts. The texture is distinctly grainy and organic, evoking the feel of colored pencil and graphite on textured paper, with a rough, hand-drawn quality. The rendering style is illustrative, marked by visible, deliberate pencil strokes, scratchy outlines, and cross-hatching that builds both form and texture. It maintains a moderate level of detail, focusing on intricate patterns and linear textures. The overall mood is whimsical, contemplative, and slightly melancholic, imbued with a quiet, introspective atmosphere."
+  },
+  {
+    "style_image_path": "images/s0183.jpg",
+    "s0183": "The visual style employs a rich, diverse color palette featuring warm earth tones, muted greens, and soft pastels, punctuated by vibrant coral reds and deep emeralds. Moderate saturation gives the overall impression a sophisticated, slightly retro feel, with strong contrast provided by bold black outlines against a warm, light beige background. Lighting is largely absent, contributing to a flat, graphic quality with minimal shadows or highlights, creating a two-dimensional, illustrative aesthetic. Surfaces are smooth and clean, with a polished, vector-art finish, devoid of tactile or painterly textures. The rendering style is distinctly digital, characterized by precise, clean lines and solid, uniform color fills, with smooth gradients used sparingly for subtle dimension. The level of detail is exceptionally high, with numerous distinct, stylized elements densely packed into an intricate composition. This creates a whimsical, complex, and slightly surreal atmosphere, blending playful abstraction with an organized, almost architectural intricacy."
+  },
+  {
+    "style_image_path": "images/s0184.jpg",
+    "s0184": "The visual style is characterized by a highly saturated and contrasting color palette, dominated by vibrant pinks, deep blacks, and bright yellows, accented with bold blues, greens, and reds that pop against the darker background. Lighting is flat and even, devoid of shadows or highlights, contributing to a two-dimensional, graphic aesthetic. Textures are predominantly smooth and flat, with a subtle, almost hand-drawn irregularity in the edges of shapes, suggesting a print-like quality. The rendering style employs bold, simplified forms with clean, defined outlines, reminiscent of digital illustration or screen printing, with no complex brushwork or gradients. The level of detail is moderate, achieved through a rich density of distinct, stylized elements rather than intricate rendering. This combination creates an overall mood that is playful, whimsical, and energetically cheerful."
+  },
+  {
+    "style_image_path": "images/s0185.jpg",
+    "s0185": "A soft, pastel color palette dominates, featuring gentle pinks, muted blues, creamy whites, and warm grays, all rendered with low to medium saturation and subtle contrast. Lighting is uniformly soft and diffused, creating gentle highlights and smooth, understated shadows that define the forms without harshness. Textures appear exceptionally smooth and matte, reminiscent of a high-quality vinyl or soft-touch plastic collectible, devoid of any visible grain or brushwork. The rendering style is distinctly digital and highly polished, suggesting a sophisticated 3D model or illustration, characterized by clean lines and precise, seamless surfaces. Detailing is moderate, focusing on stylized, simplified forms with clean edges rather than intricate realism. The overall mood is whimsical, serene, and charming, evoking a sense of gentle playfulness and innocence."
+  },
+  {
+    "style_image_path": "images/s0187.jpg",
+    "s0187": "The visual style features a highly saturated color palette dominated by vibrant blues, purples, and pinks, creating a high-contrast yet harmoniously dreamy effect. Lighting is soft and ambient, suggesting a diffused, ethereal glow without harsh shadows. Textures are smooth and digitally rendered, characterized by clean, uniform black outlines and a subtle pixelated grid overlay that imparts a retro-futuristic feel. The rendering style is distinctly digital, reminiscent of vector art combined with early computer graphics, showcasing a moderate level of detail through simplified, iconic forms. This combination evokes an overall mood that is whimsical, nostalgic, and serenely vibrant, with an otherworldly, almost magical atmosphere."
+  },
+  {
+    "style_image_path": "images/s0188.jpg",
+    "s0188": "The color palette is rich and vibrant, dominated by deep reds, oranges, emerald greens, and teal blues, accented with soft pinks and warm browns, all presented with a slightly desaturated, vintage quality that maintains high contrast without being overly stark. Lighting is flat and even, characteristic of a graphic illustration, with no discernible light source or shadows. A uniform grainy, distressed texture is applied throughout, mimicking aged paper or a vintage print, giving a tactile, slightly worn feel. The rendering style is digital illustration, characterized by clean, crisp lines and solid color fills, reminiscent of vector art or screen printing, with a strong emphasis on decorative patterns and stylized forms. The level of detail is exceptionally high, featuring intricate borders, repeating motifs, and elaborate decorative elements that fill the entire composition. This combination creates a festive, celebratory, and traditionally ornate atmosphere with a nostalgic, retro charm."
+  },
+  {
+    "style_image_path": "images/s0194.jpg",
+    "s0194": "The visual style is characterized by a vibrant yet soft color palette, dominated by cool blues and whites, accented with warm oranges, soft pinks, and pops of bright green, all rendered with moderate to high saturation and balanced contrast. Lighting is diffused and gentle, creating an ambient glow without harsh shadows or dramatic effects, with subtle suggestions of warmer internal light sources. The texture is distinctly grainy and tactile, strongly resembling colored pencil or crayon on a slightly textured paper, contributing to a hand-drawn, illustrative rendering style. Visible, deliberate strokes build up forms and colors, giving the artwork a sketch-like, almost naive quality. The level of detail is moderate, capturing essential forms and patterns with enough definition to be expressive without being overly intricate, maintaining a sense of spontaneity. This combination of elements creates a casual, intimate, and somewhat whimsical overall mood and atmosphere."
+  },
+  {
+    "style_image_path": "images/s0200.jpg",
+    "s0200": "The style features a soft, dreamlike color palette dominated by pastel pinks, sky blues, pale yellows, and muted greens, with moderate saturation and contrast primarily defined by strong, dark outlines. Lighting is diffused and even, creating subtle, flat shading rather than harsh shadows or dramatic highlights. Textures are suggested through intricate line work, particularly in flowing elements and organic forms, contrasting with smooth, flat color fills. The rendering style is distinctly digital, characterized by clean, crisp linework reminiscent of graphic novels or vector art, with a touch of Art Nouveau in its elegant curves. It exhibits a high level of detail, especially in the intricate patterns and layered forms. The overall mood is ethereal, whimsical, and subtly contemplative."
+  },
+  {
+    "style_image_path": "images/s0206.jpg",
+    "s0206": "A rich and harmonious color palette defines the style, blending soft pastels like peach, cream, and light green with vibrant oranges, yellows, and contrasting deep blues and blacks. Lighting is consistently soft and diffused, resulting in minimal shadows and an even, gentle illumination across the composition. A subtle, fine-grained texture overlays smooth, flat color areas, imparting a delicate, almost paper-like tactility. The rendering is digital, characterized by clean, precise line art that outlines forms and details, combined with flat color blocking. There is a high level of detail in intricate background patterns and delicate linear elements, balanced by a stylized simplicity in broader shapes. This creates an elegant, whimsical, and dreamlike atmosphere, imbued with a serene and artistic sensibility."
+  },
+  {
+    "style_image_path": "images/s0211.jpg",
+    "s0211": "The visual style features a vibrant, high-contrast color palette dominated by rich greens, warm oranges, and golden yellows, creating a lively and energetic feel. Lighting is strong and directional, casting distinct, simplified shadow shapes that define forms without harsh edges, suggesting a bright, sunlit environment. A subtle, uniform grainy texture is applied across all surfaces, lending a tactile, slightly retro, or printed quality to the otherwise smooth, flat color areas. The rendering style is a clean, graphic illustration, characterized by bold, simplified shapes and flat color blocking, reminiscent of vector art but softened by the texture. Detail is kept to a moderate minimum, focusing on essential forms and dynamic lines rather than intricate features. This combination results in an overall mood that is dynamic, optimistic, and distinctly stylized, evoking a sense of classic poster art."
+  },
+  {
+    "style_image_path": "images/s0215.jpg",
+    "s0215": "The visual style is characterized by a highly saturated and contrasting color palette, dominated by fiery reds, oranges, and deep golds, dramatically offset by dark greens and blacks, with brilliant luminous accents. Lighting is intensely dramatic, featuring a strong internal glow that creates sharp highlights and deep, enveloping shadows, giving an impression of self-illumination. Textures are rich and varied, ranging from fluid, molten appearances to rough, almost crystalline forms, all rendered with visible, expressive brushwork that mimics traditional oil painting techniques. The rendering is digital, yet deeply painterly, with dynamic, sweeping strokes contributing to the overall chaotic yet controlled composition. A high level of detail is present throughout, from the intricate glowing patterns to the complex, swirling background elements. This combination creates an intense, powerful, and mystical atmosphere, evoking a sense of raw energy and dramatic emergence."
+  },
+  {
+    "style_image_path": "images/s0216.jpg",
+    "s0216": "A vibrant and warm color palette dominates, featuring high-saturation yellows and rich greens, contrasted with muted blues and deep browns. The lighting is soft and diffused, creating gentle gradients and a warm, natural glow without harsh shadows. Textures are distinctly painterly and organic, with a watercolor-like graininess evident throughout, complemented by subtle glossy highlights on darker elements. The rendering style blends expressive, loose brushwork for background elements with more refined lines and detailed fills for the foreground, suggesting a traditional ink and watercolor aesthetic, possibly digitally enhanced. This results in a highly detailed composition, particularly in the foreground, which gradually softens into less defined background elements. The overall mood is idyllic, serene, and imbued with a gentle, nostalgic warmth."
+  },
+  {
+    "style_image_path": "images/s0217.jpg",
+    "s0217": "A muted color palette, predominantly featuring desaturated greens against an expansive off-white ground, establishes a low-contrast visual. The illumination is uniformly soft and diffused, casting no harsh shadows and contributing to a gentle aesthetic. A pervasive grainy texture, reminiscent of watercolor on fine paper, defines the surfaces, rendered with fluid, translucent washes and soft, organic edges. The brushwork evokes traditional East Asian ink wash painting techniques, albeit with a watercolor medium feel. Detail is intentionally minimalist, emphasizing simplified forms and significant negative space. This stylistic approach cultivates a serene, tranquil, and contemplative atmosphere."
+  },
+  {
+    "style_image_path": "images/s0218.jpg",
+    "s0218": "The visual style is characterized by a soft, ethereal color palette dominated by delicate pastel pinks, complemented by muted earthy browns, subtle greens, and gentle crimson accents. Saturation is generally low to medium, creating a harmonious and gentle contrast. Lighting is soft and diffused, lacking harsh shadows or strong directional sources, contributing to an overall luminous quality. The texture is distinctly painterly, showcasing the characteristic granulation and fluid washes of watercolor, with a subtle underlying paper texture. The rendering style is traditional watercolor painting, featuring translucent layers, soft feathered edges, and a wet-on-wet technique that allows colors to bleed and blend organically. The level of detail is moderate, with forms rendered through simplified shapes and washes rather than intricate lines, giving a sense of understated elegance. This combination evokes a serene, tranquil, and delicate mood and atmosphere."
+  },
+  {
+    "style_image_path": "images/s0220.jpg",
+    "s0220": "A highly saturated and contrasting color palette defines the style, showcasing vibrant reds, oranges, and yellows against deep blues and teals, creating a dynamic interplay of warm and cool tones. Lighting is soft and diffused, with an ethereal, internal luminescence rather than harsh shadows. Textures vary from smooth, clean surfaces to subtly grainy and stippled areas, particularly in layered background elements, complemented by wispy, translucent forms. The rendering style is digital illustration, marked by crisp lines, intricate decorative patterns, and painterly gradients, lending a stylized and graphic quality. The level of detail is consistently high, featuring elaborate ornamentation. This culminates in a mystical, majestic, and energetic atmosphere, imbued with a fantastical and spiritual ambiance."
+  },
+  {
+    "style_image_path": "images/s0223.jpg",
+    "s0223": "The visual style employs a vibrant, high-saturation color palette predominantly featuring luminous blues, teals, and purples, accented by soft washes of yellow, green, and pink in the background, creating a moderate yet harmonious contrast. Lighting is soft and diffused, imparting an ethereal glow without harsh shadows, contributing to an overall luminous quality. Textures are painterly and slightly grainy, with visible brushstrokes and watercolor bleeds, complemented by finer, almost etched details. The rendering style combines fluid watercolor washes with precise colored pencil work, showcasing intricate patterns and delicate lines. It is a highly detailed style, particularly in the embellished foreground elements, set against a more abstract, atmospheric background. The overall mood is dreamlike, serene, and mystical, evoking a sense of tranquil wonder."
+  },
+  {
+    "style_image_path": "images/s0230.jpg",
+    "s0230": "A rich color palette dominates with high-saturation golds, oranges, and deep reds, sharply contrasted by luminous whites and dark blues. Lighting is intensely dramatic and ethereal, emanating from focal points of light and creating strong highlights against deep shadows. Textures range from smooth, flowing elements to rough, organic surfaces, rendered with a highly detailed digital painting technique that mimics traditional brushwork. The level of detail is exceptionally high, filling the composition with intricate patterns and glowing accents. This creates an overall mood of grandiosity, mysticism, and dynamic cosmic energy."
+  },
+  {
+    "style_image_path": "images/s0233.jpg",
+    "s0233": "The visual style is characterized by a rich, jewel-toned color palette, dominated by vibrant blues, teals, and greens, complemented by deep purples, luminous golden yellows, and striking accents of red-orange. Saturation is high, creating a radiant and opulent feel, with moderate contrast that highlights glowing elements against darker, more atmospheric washes. Lighting is ethereal and internal, emanating softly from within the forms, casting a luminous glow rather than harsh shadows. Textures are fluid and organic, with a smooth, almost glossy quality on intricate details, juxtaposed with broader, painterly washes that suggest a subtle graininess. The rendering style is highly illustrative and digital, blending crisp lines and intricate patterns with flowing, abstract strokes and prominent calligraphic elements. The level of detail is high in focal areas, showcasing delicate intricacies, while background elements are rendered with a more impressionistic breadth. This combination creates an overall mood of opulent fantasy, mystical wonder, and vibrant, dreamlike elegance."
+  },
+  {
+    "style_image_path": "images/s0244.jpg",
+    "s0244": "The visual style is characterized by a muted, earthy color palette dominated by desaturated greens, browns, and creams, accented by soft pale blues and subtle hints of faded orange, creating moderate contrast. Lighting is consistently soft and diffused, casting a gentle, ambient glow without harsh shadows. Texturally, the image presents a grainy, almost canvas-like quality, overlaid with a delicate, shimmering particulate effect. The rendering style combines expressive, loose brushwork, reminiscent of traditional ink wash and watercolor, with areas of smoother blending, suggesting a digitally enhanced painterly approach. Detail is selectively high in the more defined forms, transitioning to a more atmospheric and less precise rendering in the background. This combination evokes a serene, ethereal, and contemplative mood, imbued with a sense of quiet timelessness."
+  },
+  {
+    "style_image_path": "images/s0247.jpg",
+    "s0247": "The visual style employs a rich, muted color palette dominated by deep teals, earthy greens, and warm golds, punctuated by subtle hints of maroon and pale, translucent tones, creating a moderate to high contrast. Lighting is soft and diffused, yet certain elements exhibit an internal luminescence, casting an ethereal glow. Textures are varied, ranging from painterly and fluid brushstrokes in the background to a distinct metallic sheen on ornate details, alongside smooth, almost porcelain-like surfaces and grainy speckles. The rendering style is digital, skillfully mimicking traditional watercolor and gouache, with expressive, loose brushwork in abstract areas contrasting with highly refined and intricate detailing in focal points. This blend of precision and abstraction results in a highly detailed yet fluid composition, evoking an elegant, mystical, and contemplative atmosphere."
+  },
+  {
+    "style_image_path": "images/s0248.jpg",
+    "s0248": "The visual style employs a soft, muted color palette dominated by gentle greens, warm ochres, and subtle cool greys, punctuated by touches of moderately saturated reds. Lighting is consistently soft and diffused, creating subtle gradients and avoiding harsh shadows or strong directional highlights, contributing to an ethereal glow. Textures range from smooth, almost porcelain-like surfaces to delicate, organic details in woven elements and foliage, rendered with a blend of clean lines and soft, blended washes. The rendering style suggests digital artistry with a painterly influence, reminiscent of watercolor or soft pastel techniques, featuring precise detailing in focal areas against a more subtly rendered background. This combination results in a highly detailed yet delicate aesthetic, evoking an overall mood of serenity, whimsy, and gentle dreaminess."
+  },
+  {
+    "style_image_path": "images/s0250.jpg",
+    "s0250": "The visual style features a vibrant yet soft color palette dominated by harmonious pastels, including gentle blues, pinks, purples, yellows, and greens, with moderate saturation and low to medium contrast achieved through subtle color shifts. Lighting is soft, diffused, and ambient, creating smooth gradients and an ethereal glow without harsh shadows. Textures are predominantly smooth and clean, with delicate patterns and subtle crackle effects adding visual interest without disrupting the polished digital finish. The rendering style is distinctly digital, characterized by crisp, consistent line work and seamless, multi-color gradients for shading, reminiscent of modern illustration or vector art. It exhibits a high level of detail, particularly in the intricate floral elements and decorative motifs. The overall mood and atmosphere are whimsical, serene, and gently vibrant, evoking a sense of delicate beauty and tranquility."
+  },
+  {
+    "style_image_path": "images/s0252.jpg",
+    "s0252": "The style features a stark, high-contrast monochrome palette of black lines on a white background, devoid of color or tonal variation. Lighting is unrendered and flat, relying solely on line work to define forms. Textures are implied through line density and slight variations in stroke, suggesting a raw, unpolished surface quality, akin to ink on slightly textured paper. The rendering style is a loose, expressive pen-and-ink sketch, characterized by fluid, somewhat uneven lines and minimal cross-hatching for depth. It presents a moderately detailed composition, capturing numerous elements through outline without excessive rendering or shading. The overall mood is immediate, observational, and authentic, conveying a sense of spontaneous capture."
+  },
+  {
+    "style_image_path": "images/s0253.jpg",
+    "s0253": "A muted color palette, dominated by deep teal, warm golden yellows, desaturated reds, creams, and grays, establishes a moderate contrast across the composition. The lighting is flat and even, devoid of strong directional shadows or highlights, contributing to an illustrative rather than realistic feel. Textures appear predominantly smooth and clean, with a graphic quality, though intricate linework in certain areas suggests subtle material variations. The rendering style is distinctly digital, characterized by crisp, consistent outlines and flat, cel-shaded coloring, evoking a contemporary anime or graphic novel aesthetic. The level of detail is exceptionally high, with intricate patterns and numerous small, distinct elements meticulously filling the space. This combination cultivates a whimsical, surreal, and subtly melancholic atmosphere."
+  },
+  {
+    "style_image_path": "images/s0260.jpg",
+    "s0260": "A vibrant digital style dominates, characterized by a highly saturated, pastel-neon color palette featuring dominant pinks, purples, blues, and teals, often blended with smooth gradients. Lighting is soft and diffuse, with an internal glow that gives surfaces a luminous, almost iridescent quality, hinting at neon accents. Textures appear smooth, glossy, and plastic-like, contributing to a clean, polished aesthetic. The rendering is distinctly digital, employing crisp line art and precise, unblemished shading. Despite the intricate and highly detailed composition, the overall impression remains clean and sharp, creating a whimsical, dreamy, and hyper-real atmosphere that evokes a sense of playful fantasy."
+  },
+  {
+    "style_image_path": "images/s0263.jpg",
+    "s0263": "The visual style is characterized by a vibrant, high-saturation color palette dominated by luminous blues, aquas, and cyans, sharply contrasted with brilliant whites and subtle accents of warm oranges, reds, and earthy browns. Lighting is ethereal and dramatic, featuring strong internal glows and sharp, almost cinematic highlights that create a sense of intense luminosity and depth. Textures range from smooth and glossy, particularly in the flowing, translucent elements, to more organic and slightly rougher surfaces in the branching forms, with a background that exhibits a painterly, almost abstract quality. The rendering style is distinctly digital, combining crisp lines and clean cel-shaded areas with gradient-rich rendering, reminiscent of high-fantasy anime or game illustration. The level of detail is exceptionally high, with intricate patterns, delicate lines, and numerous small, sparkling effects contributing to a rich visual tapestry. The overall mood is dynamic, powerful, and fantastical, imbued with an energetic yet mystical atmosphere."
+  },
+  {
+    "style_image_path": "images/s0267.jpg",
+    "s0267": "The visual style features a soft, pastel color palette dominated by gentle pinks, lavenders, muted blues, and creams, exhibiting low to medium saturation and subtle contrast. Lighting is predominantly soft and ambient, with localized warm glows and diffused, gentle shadows that avoid harshness. Textures are largely smooth and flat, with a subtle, almost paper-like digital grain visible in larger color areas, contributing to a soft material feel. The rendering style employs clean, consistent line art with a slightly hand-drawn, wobbly quality, filled with flat, cel-shaded colors and minimal gradients. The level of detail is moderate, providing clear forms and elements without being overly intricate. This combination creates an overall whimsical, cozy, and serene mood and atmosphere."
+  },
+  {
+    "style_image_path": "images/s0270.jpg",
+    "s0270": "The visual style is defined by an extremely high-saturation, neon-infused color palette, dominated by electric pinks, blues, yellows, and greens, creating a high-contrast, vibrant aesthetic. Lighting is flat and even, emphasizing the inherent luminosity of the colors rather than casting dramatic shadows. Textures are predominantly smooth and clean, with a glossy, plastic-like finish suggested by sharp, minimal highlights. The rendering style is distinctly digital, employing crisp vector lines and solid, flat color fills, giving it a graphic, illustrative quality. Detail is moderate, focusing on precise geometric forms and clean execution. The overall mood is energetic, futuristic, and boldly synthetic, evoking a playful, pop-art sensibility."
+  },
+  {
+    "style_image_path": "images/s0271.jpg",
+    "s0271": "A predominantly muted color palette of soft grays, off-whites, and desaturated reds establishes a gentle contrast, with the reds providing the most saturated accents. The lighting is uniformly soft and diffused, casting no harsh shadows and contributing to an ethereal glow. Textural qualities vary from smooth, refined surfaces to a subtle, grainy, watercolor-like finish, particularly evident in background washes and shaded areas. The rendering style is digital, characterized by delicate, fine line work reminiscent of pencil sketches, combined with soft, blended shading akin to watercolor, and a distinct anime-influenced aesthetic in the rendering of features. The level of detail is high in intricate patterns and emphasized areas, while background elements are rendered with fine lines and less volumetric depth. This stylistic combination cultivates a delicate, melancholic, and dreamlike atmosphere."
+  },
+  {
+    "style_image_path": "images/s0273.jpg",
+    "s0273": "A highly dramatic and opulent visual style dominates, characterized by a stark color palette of brilliant, high-saturation gold and desaturated, aged white, set against a deep, velvety black background. Lighting is cinematic and high-contrast, featuring strong specular highlights on the metallic elements and softer illumination on the matte surfaces, creating a profound sense of depth. Textures are meticulously rendered, showcasing a striking juxtaposition of highly reflective, almost molten gold with a crinkled, fractured quality, alongside matte, stony, and subtly weathered white forms, complemented by delicate, translucent lace-like fabric. The rendering style is photorealistic digital, exhibiting an exceptionally high level of intricate detail across all surfaces, from micro-imperfections to fine patterns. This combination evokes an atmosphere that is both mysterious and grand, with an ethereal yet intense mood."
+  },
+  {
+    "style_image_path": "images/s0275.jpg",
+    "s0275": "The visual style is dominated by a high-saturation, high-contrast color palette featuring intense reds, fiery oranges, and deep ochre, dramatically offset by near-black forms with vibrant red and yellow accents. Lighting is harsh and cinematic, emanating from a central, glowing source that creates strong backlighting and luminous edges, suggesting an infernal or volatile environment. A gritty, somewhat coarse texture pervades the image, characterized by speckles, scratches, and a rough, almost distressed material quality. The rendering style is a blend of digital illustration and expressive brushwork, with visible strokes and dynamic lines contributing to a graphic yet painterly aesthetic. The level of detail is high, particularly in the central elements, with intricate textures and atmospheric effects enriching the composition. This combination creates an intense, chaotic, and powerfully dramatic mood and atmosphere."
+  },
+  {
+    "style_image_path": "images/s0276.jpg",
+    "s0276": "A soft, pastel-dominant color palette, featuring gentle pinks, warm browns, and a serene light blue background, defines this style with moderate saturation and subtle contrast. Lighting is uniformly soft and diffused, casting gentle shadows without harsh highlights, contributing to a smooth, almost velvety texture on rendered forms, while organic elements suggest a delicate, slightly rougher quality. The rendering style is distinctly digital, yet incorporates a painterly quality through blended colors and visible, soft-edged brushwork, particularly in the organic shapes. Detailing is moderate, focusing on defining forms with enough nuance to suggest texture without becoming overly intricate, especially in the foreground elements, while the background remains simplified. This combination cultivates an overall mood of whimsical serenity and peaceful lightness."
+  },
+  {
+    "style_image_path": "images/s0277.jpg",
+    "s0277": "The visual style is characterized by a rich, contrasting color palette dominated by deep, cool blues and greens in the upper register, transitioning to warm golden yellows and oranges in the lower half, punctuated by vibrant reddish accents. Lighting is soft, atmospheric, and diffused, emanating from a central, glowing orb that casts a gentle, ethereal illumination, creating subtle highlights and deep, cool shadows. The texture is distinctly painterly, showcasing visible canvas weave and impasto, particularly in the lighter, more luminous areas. Brushwork is loose, expressive, and impressionistic, with visible strokes that build form and convey a sense of movement and energy. The level of detail is suggestive rather than hyper-realistic, focusing on the overall impression of light and color. This combination creates a serene yet subtly dramatic and dreamlike atmosphere, imbued with a sense of quiet grandeur."
+  },
+  {
+    "style_image_path": "images/s0282.jpg",
+    "s0282": "A monochromatic palette dominates, featuring a rich spectrum of black and grey washes against a stark white ground, exhibiting high contrast and extremely low saturation. Soft, diffused lighting permeates the composition, creating an atmospheric quality akin to mist or fog, with light emerging from the background rather than a distinct source. Textures range from smooth, ethereal washes to granular, organic brushwork, suggesting natural forms on a paper-like surface. The rendering style is characteristic of traditional East Asian ink wash painting, employing fluid, calligraphic brushstrokes and varying ink dilutions to define forms and depth. Detail is selectively applied, with distant elements rendered minimally through broad washes, while closer areas feature more intricate, yet still impressionistic, brushwork. This combination evokes a serene, contemplative, and ethereal mood, imbued with a sense of timeless tranquility."
+  },
+  {
+    "style_image_path": "images/s0284.jpg",
+    "s0284": "The style features a stark, high-contrast color palette dominated by a vibrant, saturated red against a pure white background. The rendering is entirely flat and two-dimensional, devoid of any discernible lighting or textural variations, presenting a smooth, clean aesthetic. Characterized by precise, sharp lines and intricate, stylized patterns, the brushwork suggests a graphic, vector-based, or traditional paper-cut technique. The level of detail is high, expressed through elaborate decorative flourishes and complex internal designs. This combination creates an overall mood that is bold, traditional, and auspicious."
+  },
+  {
+    "style_image_path": "images/s0286.jpg",
+    "s0286": "The visual style is defined by an extremely vibrant and high-saturation color palette, dominated by a brilliant yellow background that sharply contrasts with a diverse array of equally bright purples, blues, reds, and greens. Lighting is flat and even, creating a shadowless appearance with sharp, clean highlights that suggest smooth, often glossy textures. The rendering is distinctly digital, characterized by crisp lines, sharp edges, and solid color blocking with subtle gradients for volume, strongly influenced by a highly stylized anime aesthetic. The level of detail is exceptionally high, with numerous intricate elements precisely rendered throughout the composition. This combination culminates in an energetic, whimsical, and somewhat surreal atmosphere, brimming with a playful, modern pop sensibility."
+  },
+  {
+    "style_image_path": "images/s0289.jpg",
+    "s0289": "The visual style features a moderately saturated color palette dominated by muted blues, greens, yellows, and reds, balanced with earthy orange and brown tones, creating a medium contrast. Lighting is soft and diffused, casting gentle shadows without harshness or strong specular highlights. Textures are predominantly smooth and matte, with subtle corrugated patterns on some surfaces, contributing to a clean, almost plastic-like material quality. The rendering style is digital 3D, characterized by crisp edges and a low-poly aesthetic for foundational elements, presenting simplified forms. The level of detail is moderate, providing enough definition without excessive intricacy. This combination evokes an overall mood that is charming, clean, and playfully idealized."
+  },
+  {
+    "style_image_path": "images/s0293.jpg",
+    "s0293": "The style employs a minimalist color palette dominated by crisp white, a soft, desaturated periwinkle blue, and strong black outlines, creating a high-contrast yet gentle visual. Lighting is entirely absent, resulting in flat, unshaded forms with no discernible light source. Textures are smooth and purely digital, devoid of any visible grain, brushwork, or material rendering. The rendering style is clean vector line art, characterized by uniform line weights and solid, flat color fills. The level of detail is highly simplified, focusing on essential shapes and forms with minimal embellishment. This combination cultivates a clean, modern, and approachable mood with a clear, functional atmosphere."
+  },
+  {
+    "style_image_path": "images/s0290.jpg",
+    "s0290": "The style features a highly saturated and vibrant color palette, predominantly fuchsias, purples, blues, and greens, with high contrast against a stark white background. Lighting is bright and even, emphasizing the inherent luminosity of the colors rather than casting distinct shadows. Textures are created through a mosaic-like arrangement of numerous small, fragmented organic shapes, giving a sense of intricate detail within larger silhouettes, complemented by smooth, stylized calligraphic elements. The rendering is distinctly digital vector art, characterized by crisp edges and solid color fills, resembling digital cut-outs or stamps. This intricate level of detail within the composite forms contributes to an overall energetic, whimsical, and fantastical mood."
+  },
+  {
+    "style_image_path": "images/s0295.jpg",
+    "s0295": "A muted, earthy color palette, featuring dominant browns, greens, and a distinctive teal, exhibits moderate saturation and contrast. The lighting is uniformly soft and diffuse, casting no harsh shadows and contributing to a flat, even illumination across the composition. A coarse, woven texture, reminiscent of aged paper or silk, provides a consistent underlying material, while painted elements are rendered with smooth, flat color fills. The rendering style blends clean, cel-shaded figures with a more painterly, stylized approach for background forms, evoking traditional animation on a classical scroll. The level of detail is moderate, prioritizing clear outlines and simplified shapes over intricate realism. This combination creates a calm, ethereal, and timeless atmosphere, suggestive of ancient fables or mythical narratives."
+  },
+  {
+    "style_image_path": "images/s0296.jpg",
+    "s0296": "The visual style is a highly decorative digital illustration, characterized by a vibrant yet harmonious color palette dominated by soft corals, various shades of teal and mint green, and muted blues, accented with warm yellows. Saturation is moderate, leaning towards a rich pastel, with subtle contrast achieved through intricate patterning and hue shifts rather than stark light-dark differences. Lighting is soft, diffused, and ambient, creating a gentle glow without harsh shadows. A consistent grainy or stippled texture is applied throughout, giving the rendering a tactile, almost screen-printed or paper-like quality. The brushwork is precise, defining intricate shapes and ornamental motifs with clean lines and flat color areas, often incorporating subtle gradients. The level of detail is exceptionally high, with elaborate patterns and numerous small, decorative elements filling the composition. This combination creates an overall mood that is whimsical, festive, ornate, and dreamlike."
+  },
+  {
+    "style_image_path": "images/s0297.jpg",
+    "s0297": "The visual style employs a vibrant, high-saturation color palette dominated by warm yellows, oranges, and pinks, contrasted with cool blues and teals, creating a cheerful and inviting aesthetic. Lighting is soft and diffused, utilizing smooth gradients to suggest form and depth without harsh shadows, contributing to a bright, gentle ambiance. Textures are predominantly smooth and clean, with subtle noise or grain applied to larger areas like the ground and water to add a touch of organic feel without sacrificing the overall polished finish. The rendering style is distinctly digital and vector-based, characterized by crisp lines, simplified shapes, and seamless color transitions. The level of detail is moderate, balancing recognizable forms with a clean, graphic simplicity. This combination results in an overall mood that is idyllic, relaxed, and cheerfully optimistic."
+  },
+  {
+    "style_image_path": "images/s0298.jpg",
+    "s0298": "The visual style employs a cool, high-contrast color palette dominated by vibrant blues and crisp whites, accented by muted terracotta and deep navy. Harsh, directional lighting casts sharp, geometric shadows that define forms with distinct edges. Surfaces are rendered with smooth, flat color blocks, subtly overlaid with a uniform grainy texture that imparts a print-like quality. The rendering style is distinctly digital and vector-based, characterized by hard edges and simplified, graphic shapes. Detail is moderate, conveyed through clean lines and color shifts rather than intricate textures. This creates a crisp, serene, and modern atmosphere with a touch of retro graphic appeal."
+  },
+  {
+    "style_image_path": "images/s0300.jpg",
+    "s0300": "The visual style is characterized by a soft, pastel color palette dominated by gentle blues, muted pinks, and subtle greens, all rendered with low to medium saturation and a harmonious, low-contrast aesthetic. Lighting is uniformly soft and ambient, creating a bright yet diffused illumination without harsh shadows or strong directional sources. Textures are predominantly smooth and flat, lacking any visible grain, brushwork, or realistic material rendering. The rendering style is distinctly digital and graphic, utilizing clean lines and solid color fills with minimal shading, giving it a simplified, vector-like appearance. While forms are simplified, the level of detail is moderate, incorporating numerous small elements and patterns that add visual interest without overwhelming the composition. This combination evokes an overall mood that is cheerful, calm, and whimsically inviting."
+  },
+  {
+    "style_image_path": "images/s0301.jpg",
+    "s0301": "The visual style features a vibrant and highly saturated color palette dominated by warm oranges, yellows, and greens, complemented by soft blues and pinks, all set against a muted sage background. Lighting is consistently soft and ambient, creating gentle, diffused shadows that contribute to a cozy, inviting glow without harsh contrasts. Textures are predominantly smooth and clean, with subtle suggestions of wood grain or brickwork, often enhanced by glossy highlights that add a polished sheen. The rendering style is distinctly digital, characterized by crisp, consistent black outlines that define shapes, filled with smooth, soft gradients for shading, reminiscent of a refined cartoon or comic aesthetic. The level of detail is remarkably high, with numerous small, intricate elements meticulously rendered within the isometric composition. This combination cultivates an overall mood that is whimsical, cheerful, and idyllic, evoking a sense of playful warmth and serene happiness."
+  },
+  {
+    "style_image_path": "images/s0302.jpg",
+    "s0302": "The visual style employs a vibrant, mid-to-high saturation color palette, predominantly featuring various greens, light blues, corals, and reds, creating moderate contrast through distinct color blocking. Lighting is uniformly soft and diffuse, with an absence of harsh shadows or strong highlights, contributing to an overall bright appearance. Textures exhibit a slightly rough, matte finish, suggesting a gouache or tempera medium. The rendering is hand-painted and illustrative, characterized by visible brushwork, flat color application, and stylized patterns within simplified forms. It maintains a moderate level of detail, focusing on decorative elements and graphic shapes rather than intricate realism. The overall mood is whimsical, cheerful, and lively."
+  },
+  {
+    "style_image_path": "images/s0303.jpg",
+    "s0303": "The style employs a highly saturated and vibrant color palette, featuring a diverse range of primary and secondary hues that create strong visual contrast. Lighting is flat and even, with no discernible shadows or highlights, contributing to a smooth, textureless appearance across all forms. The rendering is distinctly digital, characterized by thick, consistent black outlines that enclose solid, uniform color fills, reminiscent of vector art or simplified cartoon aesthetics. While individual elements are rendered with a minimalist approach to internal detail, the overall composition is densely packed, presenting a high level of visual information through the sheer number of distinct shapes. This combination evokes a playful, cheerful, and energetic mood."
+  },
+  {
+    "style_image_path": "images/s0305.jpg",
+    "s0305": "The visual style is characterized by a vibrant and highly saturated color palette, predominantly featuring warm oranges, bright blues, and creamy yellows, which create a cheerful and high-contrast aesthetic. Lighting is bright and evenly diffused, suggesting an open, well-lit environment without harsh shadows or dramatic highlights. Textures are largely smooth, flat color fields, subtly enhanced by a fine, uniform grain that lends a charming, retro printed quality. The rendering employs clean, hand-drawn dark outlines filled with solid blocks of color, resulting in a graphic illustration style reminiscent of a playful cartoon. Detail is kept relatively minimalist, focusing on clear, simplified forms rather than intricate rendering. The overall mood is lighthearted, whimsical, and inviting, evoking a sense of carefree warmth and optimism."
+  },
+  {
+    "style_image_path": "images/s0308.jpg",
+    "s0308": "The visual style employs a warm, earthy color palette dominated by muted greens, oranges, and browns, set against a bright, expansive background, exhibiting moderate saturation and gentle contrast. Lighting is soft and diffuse, creating subtle depth without harsh shadows. Textures appear painterly and slightly grainy, suggesting a traditional media application like gouache or watercolor. The brushwork is expressive yet controlled, with clean, illustrative lines defining simplified forms and solid color fills that retain a hand-painted quality. The level of detail is moderate, balancing clear representation with a charming, stylized simplification, contributing to a whimsical, lighthearted, and inviting atmosphere."
+  },
+  {
+    "style_image_path": "images/s0313.jpg",
+    "s0313": "The visual style is characterized by a soft, muted pastel color palette, dominated by warm earthy tones, creams, and gentle greens, exhibiting low to medium saturation and subtle contrast. Lighting is uniformly soft and ambient, lacking harsh shadows or dramatic highlights, creating an evenly illuminated scene. The rendering is a clean digital illustration, defined by crisp, consistent dark outlines and largely flat, cel-shaded coloring with minimal, blocky shading. Textures are smooth and implied rather than highly detailed or painterly. While the composition is rich with numerous elements, individual forms are simplified, creating a highly detailed yet visually uncluttered aesthetic. This combination fosters an overall whimsical, cozy, and serenely charming atmosphere."
+  },
+  {
+    "style_image_path": "images/s0317.jpg",
+    "s0317": "The visual style features a vibrant color palette dominated by bright pinks, deep greens, and a soft pastel blue, accented with vivid yellows, all exhibiting high saturation and moderate contrast. Lighting is soft and diffused, creating an evenly illuminated, almost flat appearance without harsh shadows. The texture is distinctly painterly, revealing visible brushstrokes and a slightly uneven, matte application of color, suggesting a traditional medium. The rendering style is illustrative and hand-painted, characterized by distinct, somewhat irregular brushwork and simplified forms, avoiding photorealism. With a moderate level of detail, the aesthetic balances clear definition with a charming lack of intricate rendering. This combination evokes a whimsical, cheerful, and dreamlike atmosphere."
+  },
+  {
+    "style_image_path": "images/s0318.jpg",
+    "s0318": "A rich, earthy color palette dominates, featuring various shades of deep greens and browns, complemented by warm golden yellows and occasional vibrant reds. Saturation is generally moderate to high, creating a lively yet grounded feel, with moderate contrast that allows for clear definition without harshness. Lighting is soft and diffused, emanating from multiple warm, glowing sources that cast a gentle, ambient illumination, creating an inviting, atmospheric glow rather than sharp shadows. Textures are highly rendered and tactile, showcasing intricate wood grain, detailed foliage, and the subtle weave of fabrics, contributing to an organic and slightly rustic feel. The rendering style is highly illustrative, characterized by meticulous fine lines, hatching, and cross-hatching that build form and texture, reminiscent of traditional pen-and-ink work combined with colored pencil or watercolor washes. The level of detail is exceptionally high, with intricate patterns, individual elements, and nuanced expressions meticulously rendered throughout the composition. The overall mood is one of whimsical enchantment and lively festivity, imbued with a nostalgic, storybook quality."
+  },
+  {
+    "style_image_path": "images/s0321.jpg",
+    "s0321": "A vibrant yet slightly muted color palette dominates, featuring cool teals and blues alongside warm accents of peach, orange, and magenta, all grounded by an off-white or cream base, creating moderate contrast primarily through color blocking and crisp outlines. Lighting is flat and even, devoid of strong shadows or volumetric rendering, characteristic of graphic illustration. Textures are generally smooth, but a subtle, almost paper-like grain is present throughout, complemented by intricate hatching and cross-hatching patterns that add visual depth within flat areas. The rendering style is highly graphic, defined by precise, consistent line work and clean, flat color fills, strongly reminiscent of technical drawings or blueprints with integrated grids and measurement lines. The level of detail is exceptionally high, focusing on complex, interconnected geometric patterns and intricate networks of lines rather than photorealistic fidelity. This combination cultivates an overall mood that is organized, intellectually engaging, and possesses a distinct retro-futuristic atmosphere."
+  },
+  {
+    "style_image_path": "images/s0324.jpg",
+    "s0324": "A vibrant and cheerful aesthetic defines this illustration, characterized by a highly saturated, pastel-dominant color palette featuring bright blues, soft pinks, sunny yellows, and lively greens, all contributing to a moderate yet distinct contrast. The lighting is uniformly soft and diffuse, creating a shadowless, flat appearance that enhances the whimsical quality. Textures are predominantly smooth with a subtle, almost chalky or crayon-like graininess, lending a gentle, tactile feel without being overtly rough or glossy. The rendering style is distinctly digital illustration, mimicking a hand-drawn quality with clean but not perfectly sharp lines and solid color blocking, devoid of complex brushwork or realistic shading. Detail is moderate, focusing on stylized patterns and distinct shapes rather than intricate realism. The overall mood is playful, innocent, and inviting, evoking a sweet and comforting atmosphere."
+  },
+  {
+    "style_image_path": "images/s0325.jpg",
+    "s0325": "A vibrant and dynamic illustrative style, characterized by a high-contrast color palette dominated by deep blues and purples, dramatically offset by luminous, high-saturation oranges, yellows, and warm pinks. Lighting is primarily soft and emanating, creating ethereal glows and magical sparkles that punctuate the darker background. The texture is a compelling mix of smooth, stylized forms and visible, painterly brushstrokes, particularly evident in the background and energetic elements, with some translucent materials featuring intricate glowing patterns. The rendering style is digital, blending clean, defined lines with textured fills, reminiscent of contemporary animation or graphic novel aesthetics. It maintains a moderate level of detail, balancing simplified shapes with delicate patterns and numerous small, glowing accents. The overall mood is enchanting, whimsical, and full of mystical energy."
+  },
+  {
+    "style_image_path": "images/s0328.jpg",
+    "s0328": "The visual style employs a warm and inviting color palette, rich with golden yellows, earthy oranges, and deep browns, harmoniously contrasted with cooler blues and soft purples, all presented with moderate saturation and strong light-dark contrast. Lighting is natural and directional, evoking a warm, late-day sun that casts distinct highlights and shadows, defining forms with a cinematic quality. Textures are distinctly painterly, characterized by visible, confident brushwork that creates a tactile, somewhat rough surface rather than a smooth or glossy finish. The rendering style is traditional, akin to oil painting, with expressive strokes building up forms. While representational, the level of detail is selective, focusing on key elements with looser, more impressionistic rendering in the periphery. This combination cultivates an overall mood that is nostalgic, idyllic, and warmly atmospheric."
+  },
+  {
+    "style_image_path": "images/s0329.jpg",
+    "s0329": "A luminous color palette of warm yellows and oranges dominates, contrasted by deep greens and blues, exhibiting moderate to high saturation and a strong interplay of light and shadow. The lighting is soft, diffused, and atmospheric, casting a pervasive glow that creates brilliant reflections and subtle silhouettes. A distinctly painterly texture is evident, characterized by visible, expressive brushwork and a tactile surface, indicative of an oil painting rendering style. Detail is impressionistic, with forms suggested through color and light rather than sharp outlines, contributing to an overall serene, tranquil, and contemplative atmosphere."
+  },
+  {
+    "style_image_path": "images/s0333.jpg",
+    "s0333": "The visual style employs a predominantly desaturated color palette, featuring soft sky blues, muted greens, and pale grays, accented by warm, low-saturation yellows and oranges that suggest a gentle, diffused light source. Lighting is soft and natural, creating subtle gradients and atmospheric depth rather than harsh shadows, contributing to an airy and expansive feel. Textures exhibit a delicate, slightly grainy quality, reminiscent of watercolor washes on paper, with a distinctly painterly rendering style. Fine, expressive linework, often appearing hand-drawn and slightly sketchy, defines intricate forms and details, which are then filled with soft, translucent color. The level of detail is consistently high across the composition, from the intricate foreground elements to the complex, towering background structures, all softened by atmospheric perspective. This combination evokes a serene, tranquil, and somewhat nostalgic mood, characterized by a quiet grandeur."
+  },
+  {
+    "style_image_path": "images/s0335.jpg",
+    "s0335": "The style features a stark, high-contrast monochromatic color palette of pure black lines against a pristine white background, creating a clean and graphic aesthetic. Lighting is absent, contributing to a flat, illustrative rendering. Textures are smooth and unvaried, emphasizing the crispness of the linework. The rendering style is precise line art, possibly digital or fine ink drawing, characterized by consistent line weights and intricate detailing within dense, organic patterns. The level of detail is exceptionally high within these complex forms, yet the overall composition remains minimalist due to the lack of color and background elements. This combination evokes an elegant, delicate, and serene atmosphere."
+  },
+  {
+    "style_image_path": "images/s0339.jpg",
+    "s0339": "Characterized by a rich, deep color palette dominated by earthy reds, blues, and greens, the style employs moderate saturation and a balanced contrast that sculpts forms without harshness. Lighting is soft and diffused, creating gradual transitions between light and shadow, which lends a volumetric quality to the rendering and a subtly dramatic atmosphere. The texture is distinctly painterly, with visible yet blended brushwork that suggests a slightly rough, tactile surface, indicative of traditional oil painting. Forms are rendered with a stylized realism, emphasizing weight and solidity, while the level of detail is moderate, focusing on the overall shape and presence rather than minute intricacies. This combination results in a contemplative and grounded overall mood."
+  },
+  {
+    "style_image_path": "images/s0348.jpg",
+    "s0348": "The visual style employs a color palette rich in muted reddish-browns, desaturated dark greens, and off-whites, accented by vibrant oranges and deep blacks, creating a moderate to high contrast. Lighting is notably flat and even, lacking a discernible source or dramatic shadows, which contributes to a two-dimensional graphic quality. A consistent, subtle grainy texture is uniformly applied across all color blocks, evoking a tactile, paper-like or screen-printed material. The rendering is digital, characterized by clean, sharp-edged geometric and organic shapes with no visible brushwork, emphasizing solid color fills and precise outlines. The level of detail is minimalist and highly stylized, simplifying forms into essential, abstract elements. This combination results in an overall mood that is modern, clean, and graphically sophisticated."
+  },
+  {
+    "style_image_path": "images/s0352.jpg",
+    "s0352": "This visual style features a vibrant, high-saturation color palette dominated by bright greens, clear blues, and warm earthy tones, with moderate contrast achieved through distinct color blocking and subtle shading. The lighting is soft and diffused, casting clean, well-defined shadows that contribute to a bright, ambient atmosphere. Textures are predominantly smooth and clean, suggesting matte, polished surfaces without visible grain. The rendering style is distinctly digital, characterized by crisp lines, solid color fills, and gentle gradients, giving a stylized 3D or isometric appearance. Detail is simplified and stylized, focusing on essential forms rather than intricate elements. The overall mood is cheerful, inviting, and playfully serene."
+  },
+  {
+    "style_image_path": "images/s0354.jpg",
+    "s0354": "The visual style features a highly saturated and high-contrast color palette dominated by vibrant primary colors—red, yellow, and blue—alongside stark black, white, and muted secondary tones like teal and beige. Lighting is flat and uniform, with no discernible light source or shadows, contributing to a graphic, two-dimensional appearance. The texture is distinctly textile, resembling a woven tapestry or cross-stitch, characterized by a slightly coarse, matte finish and a fine, consistent pixelation from the thread work, with some areas exhibiting a speckled or stippled pattern. The rendering style is precise and geometric, defined by clean, hard-edged forms created through the uniform weave. While the individual thread detail is present, the overall composition maintains a minimalist approach with bold, simplified shapes. This combination creates a vibrant, energetic, and structured mood, evoking a sense of playful yet deliberate abstraction."
+  },
+  {
+    "style_image_path": "images/s0453.jpg",
+    "s0453": "The visual style features a stark, high-contrast color palette dominated by brilliant cobalt blue against a pristine white ground, exhibiting high saturation in the blue tones. Lighting is flat and even, without discernible shadows or highlights, contributing to a two-dimensional aesthetic. Texturally, the rendering suggests a smooth, glazed surface, with the pigment applied in a fluid, almost watery manner, creating subtle gradients within the blue areas. The brushwork is illustrative and calligraphic, characterized by crisp outlines and wash-like fills, indicative of traditional ceramic decoration. Detail is moderate, with intricate patterns and stylized forms rendered with precision. The overall mood is one of serene elegance and timeless tradition, conveyed through the classic color scheme and refined execution."
+  },
+  {
+    "style_image_path": "images/s0470.jpg",
+    "s0470": "The visual style is characterized by a high-contrast, minimalist aesthetic, utilizing a stark color palette of deep, saturated blue against a pure white background. There is no simulated lighting, resulting in a flat, uniform appearance. The rendering is purely digital, featuring smooth, clean, and consistent line art with uniform thickness, devoid of any discernible texture or brushwork. The level of detail is extremely low, focusing solely on essential outlines to convey form. This creates an overall mood that is clear, modern, and highly functional."
+  },
+  {
+    "style_image_path": "images/s0468.jpg",
+    "s0468": "The visual style employs a moderately saturated color palette featuring strong contrasts between deep navy outlines and fills of coral pink, light grey, and golden yellow accents. Lighting is predominantly flat, with subtle, soft gradients providing a hint of dimensionality rather than a defined light source. Textures are smooth and clean, indicative of a digital rendering style with precise, consistent vector-like lines and solid color fills. The level of detail is minimalist, relying on simplified forms and essential shapes. This creates an overall mood that is clean, modern, and approachable."
+  },
+  {
+    "style_image_path": "images/s0480.jpg",
+    "s0480": "The visual style is characterized by a vibrant yet ethereal color palette, dominated by cool blues and grays blending into warm oranges, reds, and pinks, with varying saturation from diluted washes to more concentrated hues, all set against a stark white background for high contrast. Lighting is soft and atmospheric, emanating a luminous, translucent quality typical of watercolor, without harsh shadows or direct sources. Textures are fluid and organic, showcasing the grainy quality of paper through visible pigment granulation and soft-edged washes, juxtaposed with crisp, fine ink lines. The brushwork is a dynamic blend of loose, expressive watercolor application with spontaneous splatters and drips, combined with precise, calligraphic ink sketching that defines intricate details. The level of detail is moderate to high, balancing broad, abstract color fields with delicate, illustrative linework. This combination creates an overall mood that is whimsical, dreamy, and expressively artistic."
+  },
+  {
+    "style_image_path": "images/s0512.jpg",
+    "s0512": "The visual style is characterized by a cool, deep blue color palette, transitioning from saturated indigo to lighter cerulean and teal, accented by luminous whites, light greys, and subtle golden flecks, creating high contrast against the darker background. Lighting is soft and ambient, suggesting an ethereal glow emanating from the intricate, delicate elements. Textures are a blend of a slightly grainy, almost watercolor-like wash for the background and an extremely fine, web-like or fibrous quality for the foreground patterns. The rendering style combines smooth, blended washes with highly detailed, intricate line work that resembles fine pen or digital drawing, creating complex, organic networks. The level of detail is high within these delicate patterns, contrasting with the broader, simpler background. This combination evokes a serene, mystical, and dreamlike atmosphere."
+  },
+  {
+    "style_image_path": "images/s0495.jpg",
+    "s0495": "The visual style features a muted pastel color palette, dominated by a deep, desaturated blue background contrasted with soft pinks, yellows, and light blues, maintaining an overall gentle saturation and moderate contrast. Lighting is uniformly ambient and flat, completely devoid of shadows or highlights, contributing to a two-dimensional aesthetic. Textures are smooth and clean, characteristic of digital vector art, with solid color fills and crisp edges. The rendering is minimalist and graphic, employing highly simplified shapes with a low level of detail, where features are reduced to basic forms and occasional small accents. This combination cultivates a cheerful, whimsical, and serene atmosphere."
+  },
+  {
+    "style_image_path": "images/s0499.jpg",
+    "s0499": "A warm, muted color palette, featuring soft yellows, ochres, and desaturated greens, is complemented by occasional primary-like accents in the text, all presented with moderate contrast. The lighting is uniformly soft and diffused, creating gentle gradients rather than sharp highlights or deep shadows. A prominent fibrous paper texture underpins the entire composition, while the colored areas exhibit subtle, slightly grainy pigment variations, indicative of watercolor or colored pencil application. The rendering style is a hand-drawn illustration, defined by consistent black outlines enclosing softly blended fills. It maintains a moderate level of detail, balancing simplified forms with nuanced shading and a fine background grid. The overall atmosphere is whimsical, nostalgic, and gently charming."
+  }
+]

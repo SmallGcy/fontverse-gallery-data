@@ -1,0 +1,122 @@
+[
+  {
+    "style_image_path": "images/amber.png",
+    "amber": "A realistic, high-fidelity photographic style, showcasing a translucent, amber-toned material with a glossy surface and numerous internal bubbles."
+  },
+  {
+    "style_image_path": "images/amigurumi.png",
+    "amigurumi": "A soft, handcrafted aesthetic with a pastel color palette of light blues, pinks, purples, and creams, rendered through a crocheted yarn texture."
+  },
+  {
+    "style_image_path": "images/artnouveau.png",
+    "artnouveau": "An elegant Art Nouveau aesthetic, characterized by a soft pastel color palette and delicate, flowing lines that define a central figure amidst intricate floral and vine motifs."
+  },
+  {
+    "style_image_path": "images/cloisonne.png",
+    "cloisonne": "A vibrant, ornate decorative style, reminiscent of cloisonné enamel, characterized by a rich palette of jewel-toned blues, greens, reds, and oranges, meticulously outlined in gold filigree."
+  },
+  {
+    "style_image_path": "images/cubism.png",
+    "cubism": "A highly fragmented, geometric style, rendered with a muted, earthy color palette of browns, greens, and creams."
+  },
+  {
+    "style_image_path": "images/fauvism.png",
+    "fauvism": "An energetic, highly stylized portrait rendered with thick, visible impasto brushstrokes on a textured surface, utilizing a vibrant, high-contrast palette of primary and secondary colors, creating a fragmented, mosaic-like aesthetic with bold black outlines and a flat, graphic depth."
+  },
+  {
+    "style_image_path": "images/impressionism.png",
+    "impressionism": "A vibrant, impressionistic oil painting style, characterized by thick, visible impasto brushstrokes that create a rich, textured surface."
+  },
+  {
+    "style_image_path": "images/jade.png",
+    "jade": "A highly polished, intricately carved gemstone object, featuring a serene palette of translucent light greens and mottled dark greens."
+  },
+  {
+    "style_image_path": "images/sketch.png",
+    "sketch": "An expressive, monochromatic sketch style, rendered with energetic, visible pencil or charcoal marks on a textured, off-white paper surface."
+  },
+  {
+    "style_image_path": "images/stippling.png",
+    "stippling": "A high-contrast monochrome aesthetic, rendered with a meticulous stippling technique that creates depth and texture through varying dot density, complemented by fine line work for details, evoking the precise, granular appearance of traditional engraving or halftone printing on a slightly textured, light-colored surface."
+  },
+  {
+    "style_image_path": "images/sumie.png",
+    "sumie": "A traditional East Asian ink wash painting style, characterized by monochromatic black and grey botanical elements rendered with expressive, fluid brushstrokes on a textured, warm off-white paper background."
+  },
+  {
+    "style_image_path": "images/candy_jelly.png",
+    "candy_jelly": "high-saturation candy material, jelly-like elastic semi-translucent body, rounded inflated volume, ultra-smooth surface with no grain, smooth gradient from bright purple to deep tones, localized volumetric shadows for depth, strong specular highlights with curved white reflections, glossy sugar-coated finish, soft and bouncy visual feel, stylized 3D cartoon rendering, bright high contrast, clean shading and soft shadows"
+  },
+  {
+    "style_image_path": "images/neon_glow.png",
+    "neon_glow": "high-saturation neon emission, bright luminous colors with soft glowing halos, light bleeding outward into surroundings, strong contrast against dark background, smooth gradients, futuristic cyberpunk atmosphere"
+  },
+  {
+    "style_image_path": "images/holographic.png",
+    "holographic": "holographic iridescent surface, multi-color spectral reflections shifting with angle, high gloss finish, layered reflective gradients, futuristic and eye-catching visual effect"
+  },
+  {
+    "style_image_path": "images/comic_dot.png",
+    "comic_dot": "halftone comic texture, visible dot patterns for shading, high contrast colors, bold outlines, graphic and retro comic style"
+  },
+  {
+    "style_image_path": "images/gel_pen.png",
+    "gel_pen": "gel pen illustration style, smooth clean lines, bright saturated colors, subtle highlight accents, polished and decorative finish"
+  },
+  {
+    "style_image_path": "images/gradient_neon.png",
+    "gradient_neon": "neon gradient blend, bright fluorescent colors transitioning smoothly, glowing edges with soft light diffusion, high contrast luminous appearance"
+  },
+  {
+    "style_image_path": "images/acrylic_pour.png",
+    "acrylic_pour": "Fluid acrylic pour painting, swirling marble-like colors, vibrant cell structures, glossy wet finish, organic liquid flow."
+  },
+  {
+    "style_image_path": "images/gold_foil.png",
+    "gold_foil": "Crumpled gold foil texture, metallic reflections, rich warm highlights, luxurious and uneven surface, macro photography."
+  },
+  {
+    "style_image_path": "images/soap_bubbles.png",
+    "soap_bubbles": "Iridescent soap bubbles close-up, rainbow interference patterns, thin transparent film, dark background, delicate and fragile."
+  },
+  {
+    "style_image_path": "images/vinyl_record.png",
+    "vinyl_record": "Macro photography of a vinyl record, fine circular micro-grooves, glossy black surface with curved highlights, retro music aesthetic."
+  },
+  {
+    "style_image_path": "images/brick_wall.png",
+    "brick_wall": "Classic red brick wall, rough porous texture, grey mortar lines, urban architectural surface, realistic masonry."
+  },
+  {
+    "style_image_path": "images/honey_drip.png",
+    "honey_drip": "Thick golden honey dripping, translucent and viscous, glowing amber light passing through, sticky texture, macro food photography."
+  },
+  {
+    "style_image_path": "images/snakeskin.png",
+    "snakeskin": "Realistic python snakeskin texture, geometric diamond patterns, leathery and scaly, exotic wildlife aesthetic."
+  },
+  {
+    "style_image_path": "images/leopard_print.png",
+    "leopard_print": "Natural leopard fur texture, golden yellow background with dark brown and black rosettes, soft animal hair details."
+  },
+  {
+    "style_image_path": "images/astroturf.png",
+    "astroturf": "Artificial grass astroturf texture, bright green synthetic plastic blades, uniform and tightly packed, sports field aesthetic."
+  },
+  {
+    "style_image_path": "images/nail_polish_swirl.png",
+    "nail_polish_swirl": "Swirling macro wet nail polish, high-gloss enamel, blending vibrant opaque colors, smooth flowing liquid art."
+  },
+  {
+    "style_image_path": "images/oil_slick.png",
+    "oil_slick": "Oil spill on wet asphalt, swirling rainbow interference colors, dark metallic sheen, fluid dynamic texture."
+  },
+  {
+    "style_image_path": "images/quartz_crystal.png",
+    "quartz_crystal": "Raw amethyst quartz crystal cluster, sharp hexagonal prisms, translucent purple depths, geological texture."
+  },
+  {
+    "style_image_path": "images/tire_tread.png",
+    "tire_tread": "Black rubber car tire tread pattern, deep geometric grooves, rough matte surface, heavy automotive texture."
+  }
+]
