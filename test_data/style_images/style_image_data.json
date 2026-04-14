@@ -498,5 +498,89 @@
   {
     "style_image_path": "images/s0499.jpg",
     "s0499": "A warm, muted color palette, featuring soft yellows, ochres, and desaturated greens, is complemented by occasional primary-like accents in the text, all presented with moderate contrast. The lighting is uniformly soft and diffused, creating gentle gradients rather than sharp highlights or deep shadows. A prominent fibrous paper texture underpins the entire composition, while the colored areas exhibit subtle, slightly grainy pigment variations, indicative of watercolor or colored pencil application. The rendering style is a hand-drawn illustration, defined by consistent black outlines enclosing softly blended fills. It maintains a moderate level of detail, balancing simplified forms with nuanced shading and a fine background grid. The overall atmosphere is whimsical, nostalgic, and gently charming."
+  },
+  {
+    "style_image_path": "images/Ice Cube.png",
+    "Ice Cube": "frozen ice material, semi-transparent with internal cracks, frosty texture, condensation droplets, cold bluish tones, realistic ice surface, subsurface scattering, sharp edges, studio lighting, high detail, photorealistic."
+  },
+  {
+    "style_image_path": "images/Fire.png",
+    "Fire": "intense flames engulfing objects, bright orange and yellow fire, dynamic motion, glowing embers, high contrast, heat distortion, realistic fire simulation, dark background, cinematic lighting, volumetric glow, high detail, dramatic atmosphere."
+  },
+  {
+    "style_image_path": "images/Water.png",
+    "Water": "transparent liquid material, glossy water surface, fluid shapes, soft reflections, high surface tension, droplets splashing and merging, ultra realistic water simulation, studio lighting, clean background, macro detail, photorealistic, high clarity, subtle caustics."
+  },
+  {
+    "style_image_path": "images/Smoke.png",
+    "Smoke": "soft swirling smoke, semi-transparent volumetric fog, wispy textures, grayscale tones, smooth diffusion, atmospheric haze, fluid simulation, dark background, high detail, ethereal and abstract, soft lighting, realistic smoke behavior."
+  },
+  {
+    "style_image_path": "images/Glass.png",
+    "Glass": "clear glass material, reflective and refractive surfaces, smooth polished edges, light refraction, subtle caustics, transparent solid form, studio lighting, high gloss, realistic reflections, minimal background, photorealistic rendering."
+  },
+  {
+    "style_image_path": "images/Cloud.png",
+    "Cloud": "soft fluffy clouds, volumetric cotton-like texture, light and airy structure, bright white tones, smooth shading, dreamy atmosphere, soft lighting, sky-like ambience, high detail, stylized realism, gentle shadows."
+  },
+  {
+    "style_image_path": "images/Bubble Candy.png",
+    "Bubble Candy": "3D inflated gummy candy style with translucent pastel pink, mint, and yellow gradients. Glossy pearlescent finish featuring trapped air bubbles and tiny colorful nonpareil sprinkles. Bulbous rounded structure with high-shine specular highlights and soft internal glow. Wet, iridescent gel texture with deep volumetric layering on a white background."
+  },
+  {
+    "style_image_path": "images/Crayon Wax.png",
+    "Crayon Wax": "Thick 3D impasto effect using glossy, wet-look material. Features layered, extruded plasticine in a vibrant primary palette of red, yellow, blue, and green. Structure consists of stacked horizontal color bands with visible tactile ridges and high-relief depth. Bright directional lighting creates sharp highlights and soft drop shadows. Surface displays fine brushstroke textures and subtle marbled color blends."
+  },
+  {
+    "style_image_path": "images/Frosted Glass.png",
+    "Frosted Glass": "3D translucent frosted glass style with icy cyan and white tones. Thick rounded bevels feature high-gloss edge highlights and internal refraction. Surface has a subtle grainy texture resembling frozen condensation. Cool ambient lighting emphasizes depth and crystalline transparency."
+  },
+  {
+    "style_image_path": "images/Graffiti Spray.png",
+    "Graffiti Spray": "Vibrant graffiti style featuring glossy airbrushed gradients of cyan, magenta, and yellow. Thick black outlines create a bold sticker-like structure. Surface includes fine overspray speckles and bright specular glints for a wet finish. Long, thin paint drips in matching colors hang from the bottom edge. High-contrast lighting on a clean white background."
+  },
+  {
+    "style_image_path": "images/Holographic Film.png",
+    "Holographic Film": "Vibrant 3D holographic script style featuring iridescent rainbow gradients and glossy reflective finishes. Surface includes intricate embossed floral patterns and deep beveled edges. Multi-layered structure with thick outlines, bright specular highlights, lens flares, and soft drop shadows for depth."
+  },
+  {
+    "style_image_path": "images/Jelly Gel.png",
+    "Jelly Gel": "Glossy 3D translucent jelly material with vibrant rainbow gradients of pink, orange, lime, and cyan. Volumetric rounded structure featuring internal effervescent air bubbles and refractive depth. Polished liquid-resin finish with bright specular highlights and soft caustic lighting. Smooth, tubular forms with a wet, high-shine surface on a clean white background."
+  },
+  {
+    "style_image_path": "images/Kawaii Magical.png",
+    "Kawaii Magical": "3D inflated bubble style with high-gloss pearlescent finish and pastel gradients of mint, pink, and lavender. Multi-layered structure features thick rounded forms atop a solid lavender base for depth. Soft studio lighting creates bright specular highlights on smooth plastic surfaces. Accented by floating 3D hearts and iridescent sparkles."
+  },
+  {
+    "style_image_path": "images/Liquid Mercury.png",
+    "Liquid Mercury": "3D liquid chrome style with a bulbous, tubular structure. Highly reflective mirror finish resembling molten mercury. Monochromatic palette of deep blacks and brilliant white specular highlights. Smooth, glossy surface with sharp studio reflections. Heavy rounded depth, fluid viscosity, and soft ambient occlusion in crevices."
+  },
+  {
+    "style_image_path": "images/Marble Stone.png",
+    "Marble Stone": "Polished 3D script style featuring white marble material with intricate charcoal veining and warm tan mineral patches. Glossy smooth finish on thick volumetric forms with rounded beveled edges. Soft studio lighting emphasizes depth and realistic stone texture. Color palette includes cream, off-white, and dark grey mineral streaks. High-resolution stone aesthetic with subtle highlights and shadows."
+  },
+  {
+    "style_image_path": "images/Ocean Foam.png",
+    "Ocean Foam": "3D fluid typography style blending thick white sea foam with translucent teal water. Rounded organic forms feature frothy bubble textures on top and glossy submerged liquid below. Realistic splashes and droplets accent the edges. Bright directional lighting produces caustic reflections and high-contrast highlights. Color palette transitions from opaque white to vibrant turquoise and deep oceanic blue."
+  },
+  {
+    "style_image_path": "images/Pixel Art.png",
+    "Pixel Art": "3D isometric pixel-art style featuring thick blocky extrusion and white grid-patterned faces. Deep purple and cyan sides exhibit heavy chromatic aberration with vibrant magenta edge-splitting. Digital neon lighting emphasizes a retro-virtual aesthetic, complemented by small floating pixel cubes and sharp aliased edges."
+  },
+  {
+    "style_image_path": "images/Plush Toy.png",
+    "Plush Toy": "3D inflated script style with dense faux fur texture in pastel blue, mint green, and peach. Features a white stitched border and thick blue base. Soft studio lighting highlights fuzzy surfaces and rounded depth."
+  },
+  {
+    "style_image_path": "images/Pop Sticker.png",
+    "Pop Sticker": "Glossy die-cut sticker style with thick white offset borders and 3D beveled depth. Vibrant CMYK palette of cyan, magenta, and yellow featuring integrated halftone dot patterns. High-shine plastic finish with prominent white specular highlights. Bold multi-layered outlines and pop art comic aesthetic. Tactile, saturated appearance with clean, rounded edges."
+  },
+  {
+    "style_image_path": "images/Soap Bubble.png",
+    "Soap Bubble": "3D inflated tubular structure with a glossy iridescent finish and holographic pastel rainbow palette. Smooth reflective surface with bright specular highlights and metallic silver undertones. Clustered tiny transparent bubbles along edges create a liquid soapy texture. Volumetric pearlescent depth with a thin white outer stroke."
+  },
+  {
+    "style_image_path": "images/Vine Wrap.png",
+    "Vine Wrap": "3D organic forest aesthetic featuring realistic brown bark branches intertwined with vibrant green vines. Lush moss patches and bright, waxy leaves sprout from the wooden structure. High-contrast directional lighting creates deep shadows and sharp highlights, emphasizing a dense, layered depth. Textured surfaces include rough wood grain and smooth, curling tendrils against a stark white background."
   }
 ]
